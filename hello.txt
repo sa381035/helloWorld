@@ -3,7 +3,11 @@
 using namespace std
 
 int main(){
-cout << "Hello" << endl
+cout << "Hello" << endl;
+
+int abc = "hello";
+
+cout << abc << endl;
 
 getch();
 return (0);
